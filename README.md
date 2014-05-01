@@ -1,3 +1,3 @@
 I Know What You Did ...
 ==========================
-Keep track of Korean politicians in the past
+Keep track of what Korean politicians did or mentioned in the past
